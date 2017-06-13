@@ -5,4 +5,4 @@ connect <- function(){
   con_seg
 }
 
-a
+
